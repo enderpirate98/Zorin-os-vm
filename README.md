@@ -38,3 +38,15 @@ go through the installation proccess as it guides you though it
 Post installation:
 
 when everything is installed you will be greeted with a tour telling you everything you need to know
+
+after the tour is over we will need to install an application to improve performance and resolution
+
+this step is going to need you to use the command line a little bit but you can just open up terminal and copy and paste the command
+
+sudo apt update && sudo apt upgrade && sudo apt install open-vm-tools
+
+when it asks for your password type that in and press enter when it asks you to confirm the installation
+
+and with that done reboot and behold you now have a Linux VM to call your own now that Wasn't so bad was it.
+
+this guide was created by Andrew E. Snow and if you want to modify this guide and release it to the public please mention Andrew E. Snow as the original author and this guide was created as a side project and im not trying to make a profit here at all and with that Thank You for making enderpirate known among the community.
