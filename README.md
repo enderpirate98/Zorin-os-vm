@@ -1,5 +1,5 @@
 # Zorin-os-vm
-In case you don't know what Zorin os is it is a Linux Distribution based on Ubuntu 20.04 LTS and in this guide you will learn how to set it up on ether a virtual machine running in VMware workstation 16 or on real hardware because you want to get away from windows or MacOS. This guide is specificly for Windows 10/11 hosts but you can follow along on any other os host just note that you will have to adapt the steps to your os of choice.
+In case you don't know what Zorin os is it is a Linux Distribution based on Ubuntu 20.04 LTS and in this guide you will learn how to set it up on ether a virtual machine running in VMware workstation 16 or on real hardware because you want to get away from windows or MacOS. This guide is specificly for Windows 10/11 hosts but you can follow along on any other os host just note that you will have to adapt the steps to your os of choice. If you want to run this on real hardware then follow the guide here: insert link here
 
 Download all the files provided in this project:
 
